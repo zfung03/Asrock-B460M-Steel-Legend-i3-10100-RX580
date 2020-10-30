@@ -19,15 +19,25 @@ Hackintosh + OpenCore (Supported version: 0.5.9)
 暫時測試一切正常。
 
 Continuity:
+
 Handoff
+
 iMessage
+
 Air Drop
+
 Sleep
+
 Wake
+
 Audio (select internal speakers)
+
 Ethernet
+
 Bluetooth
+
 WiFi
+
 All USB ports (Full 3.0 + 2.0 + type C)
 
 
